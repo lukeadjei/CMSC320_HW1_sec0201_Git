@@ -1,0 +1,4 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: [a flower shop business. They could use data science to figure out which flowers on their websites
+are purchased the most or even clicked on the most. And they can make different decisions such as inventory supply or deals based on the data]
