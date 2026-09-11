@@ -9,3 +9,6 @@ Q2: What field could data science be applied to? Give an Example.
 Answer: [a flower shop business. They could use data science to figure out which flowers on their websites
 are purchased the most or even clicked on the most. And they can make different decisions such as inventory supply or deals based on the data]
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: [Merging is taking two branches with different file history and joining them together with their commits both point back towards the old two parents. Rebasing is just taking commits from different branches and puts them on top of whatever branch your doing the rebase into.]
