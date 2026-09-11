@@ -12,3 +12,7 @@ are purchased the most or even clicked on the most. And they can make different 
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: [Merging is taking two branches with different file history and joining them together with their commits both point back towards the old two parents. Rebasing is just taking commits from different branches and puts them on top of whatever branch your doing the rebase into.]
+
+Q4: What are you looking forward to this semester?
+
+Answer: [Learning about training models]
